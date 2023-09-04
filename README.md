@@ -17,9 +17,11 @@
 
 ## Some Shots
 
+!['mui'](./showcase/shot1.png)
+
 !['mui'](./showcase/shot2.png)
 
-!['mui'](./showcase/shot1.png)
+
 
 
 
